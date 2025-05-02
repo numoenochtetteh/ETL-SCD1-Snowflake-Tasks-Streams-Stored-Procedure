@@ -94,7 +94,7 @@ The entire pipeline follows an end-to-end approach:
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Enoch Numo Tetteh**  
 Cloud & Data Engineering Enthusiast  
 🔗 [LinkedIn](www.linkedin.com/in/enochnumotetteh)  
 🐙 [GitHub](https://github.com/numoenochtetteh)
